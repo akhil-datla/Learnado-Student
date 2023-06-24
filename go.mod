@@ -6,7 +6,7 @@ require (
 	github.com/denisbrodbeck/machineid v1.0.1
 	github.com/jasonlvhit/gocron v0.0.1
 	github.com/joho/godotenv v1.4.0
-	github.com/labstack/echo/v4 v4.7.2
+	github.com/labstack/echo/v4 v4.9.0
 	github.com/pterm/pterm v0.12.42
 	github.com/spf13/afero v1.9.5
 	golang.org/x/crypto v0.0.0-20220722155217-630584e8d5aa
