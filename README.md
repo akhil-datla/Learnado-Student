@@ -12,8 +12,6 @@ To start your learning journey with Learnado, follow these simple steps:
 
 Before you can start using Learnado, you need to download the Learnado software. Clone the repository to get started.
 
-Once you have downloaded and extracted the Learnado package, you can proceed with the remaining steps.
-
 ### 2. Configure Environment Variables
 
 Using a text editor, open the `variables.env` file for editing.
