@@ -10,12 +10,7 @@ To start your learning journey with Learnado, follow these simple steps:
 
 ### 1. Downloading Learnado
 
-Before you can start using Learnado, you need to download the Learnado software. Follow these steps to download Learnado from the GitHub releases:
-
-1. Navigate to the "Releases" section of the repository.
-2. Locate the latest stable release version of Learnado.
-3. Download the Learnado release package specific to your operating system (e.g., macOS, Linux, or Windows).
-4. Extract the downloaded package to a location on your computer where you want to store the Learnado files.
+Before you can start using Learnado, you need to download the Learnado software. Clone the repository to get started.
 
 Once you have downloaded and extracted the Learnado package, you can proceed with the remaining steps.
 
@@ -42,7 +37,7 @@ To run Learnado on your system, you need to execute the Learnado binary. Here ar
    ```
 4. Once inside the Learnado folder, run the Learnado binary by executing the following command:
    ```
-   ./Learnado-Student
+   go run main.go
    ```
    Note: If you encounter permission issues, you may need to make the Learnado binary executable by running the command `chmod +x Learnado-Student` before executing it.
 
@@ -55,7 +50,7 @@ To run Learnado on your system, you need to execute the Learnado binary. Here ar
    ```
 4. Once inside the Learnado folder, run the Learnado binary by executing the following command:
    ```
-   Learnado-Student.exe
+   go run main.go
    ```
 
 After executing the Learnado binary, the Learnado platform will start running on your local machine. If it successfully runs, you will see this message: `⇨ http server started on [::]:3000`.
