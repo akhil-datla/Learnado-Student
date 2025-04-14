@@ -22,9 +22,9 @@ Replace the existing value after the "=" sign with the server URL provided by yo
 
 Save the changes to the variables.env file.
 
-### 3. Executing the Learnado Binary
+### 3. Executing Learnado
 
-To run Learnado on your system, you need to execute the Learnado binary. Here are the steps to execute the binary on different operating systems:
+To run Learnado on your system, you need to execute the Learnado program. Here are the steps to execute the program on different operating systems:
 
 #### For MacOS and Linux:
 1. Open a terminal.
@@ -41,7 +41,7 @@ To run Learnado on your system, you need to execute the Learnado binary. Here ar
 
 #### For Windows:
 1. Open the command prompt or PowerShell.
-2. Navigate to the directory where the Learnado binary is located. This may be the folder where you downloaded or cloned the Learnado repository.
+2. Navigate to the directory where the Learnado program is located. This may be the folder where you downloaded or cloned the Learnado repository.
 3. Use the `cd` command followed by the directory path to navigate to the Learnado folder. For example:
    ```
    cd C:\path\to\learnado
@@ -51,7 +51,7 @@ To run Learnado on your system, you need to execute the Learnado binary. Here ar
    go run main.go
    ```
 
-After executing the Learnado binary, the Learnado platform will start running on your local machine. If it successfully runs, you will see this message: `⇨ http server started on [::]:3000`.
+After executing the Learnado program, the Learnado platform will start running on your local machine. If it successfully runs, you will see this message: `⇨ http server started on [::]:3000`.
 
 ### 4. Activation
 
